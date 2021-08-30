@@ -10,7 +10,7 @@ In love with Software Engineering:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about my Repos on sherifnabil441@gmail.com
 
-- 📫 ### Connect with me:
+- 📫 Connect with me:
 - [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sherif-nabil-a6464a185/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/shref.nabil/)
 -  Pronouns: ...
