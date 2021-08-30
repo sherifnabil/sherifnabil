@@ -5,7 +5,6 @@
 
 In love with Software Engineering:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <a href="https://golang.org/">GO Lang</a> 
 
 - 👯 I’m looking to collaborate on ...
