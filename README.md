@@ -1,7 +1,7 @@
 ### Hi I am Sherif Nabil 😄👋
 
 
-** ✨ Software Developer :) ✨ **
+✨ Software Developer :) ✨ 
 
 In love with Software Engineering:
 
