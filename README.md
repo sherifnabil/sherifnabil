@@ -2,7 +2,7 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-✨ Software Developer :) ✨ 
+✨ Software Developer ✨ 
 
 In love with Software Engineering:
 
