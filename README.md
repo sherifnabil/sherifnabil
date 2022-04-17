@@ -5,8 +5,7 @@
 
 In love with Software Engineering:
 
-- 🌱 I’m currently learning <a href="https://golang.org/">GO Lang</a> 
--  I’m currently learning <a href="https://www.docker.com/">Docker</a> 
+- 🌱 I’m currently learning <a href="https://golang.org/">GO Lang</a> and <a href="https://www.docker.com/">Docker</a> 
 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about my Repos on sherifnabil441@gmail.com
