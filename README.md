@@ -24,8 +24,8 @@ In love with Software Engineering:
 <img align="left" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
 <!-- <img align="left" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> -->
 <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="Mongo" width="50" height="50" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40px"  class="d-block rounded-2 mr-3 flex-shrink-0" alt="nodejs logo">
+<img align="left" src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="Mongo" width="50" height="50">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="40px"  class="d-block rounded-2 mr-3 flex-shrink-0" alt="nodejs logo">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="40px" class="d-block rounded-2 mr-3 flex-shrink-0" alt="expressjs logo">
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
