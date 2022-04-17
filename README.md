@@ -10,8 +10,7 @@ In love with Software Engineering:
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about my Repos on sherifnabil441@gmail.com
 
-- 📫 Connect with me:
-- [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sheriffnabil/)
+- 📫 Connect with me: [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sheriffnabil/)
 
 ### ⚡ Toolbox:
 
