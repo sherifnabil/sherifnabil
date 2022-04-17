@@ -25,8 +25,8 @@ In love with Software Engineering:
 <!-- <img align="left" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /> -->
 <img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="Mongo" width="50" height="50" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="100%" height="100%" class="d-block rounded-2 mr-3 flex-shrink-0" alt="nodejs logo">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="100%" height="100%" class="d-block rounded-2 mr-3 flex-shrink-0" alt="expressjs logo">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="25" height="25" class="d-block rounded-2 mr-3 flex-shrink-0" alt="nodejs logo">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="25" height="25" class="d-block rounded-2 mr-3 flex-shrink-0" alt="expressjs logo">
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
