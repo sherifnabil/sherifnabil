@@ -1,5 +1,5 @@
 ### Hi I am Sherif 😄👋
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ //<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ✨ Software Developer ✨ 
 
