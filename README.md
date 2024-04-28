@@ -1,14 +1,8 @@
 ### Hi I am Sherif 😄👋
- <!--- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 
-✨ Software Engineer ✨ 
+✨ Software Engineer passionate about Backend Engineering ✨ 
 
-In love with Software Engineering:
-
-- 🌱 I’m currently learning <a href="https://golang.org/">GO Lang</a> and <a href="https://www.docker.com/">Docker</a> 
-
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about my Repos on sherifnabil441@gmail.com
+- 💬 Contact By mail via sherifnabil441@gmail.com
 
 - 📫 Connect with me: [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sheriffnabil/)
 
