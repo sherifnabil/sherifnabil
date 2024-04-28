@@ -1,10 +1,10 @@
-### Hi I am Sherif 😄👋
+### Hi I am Sherif 👋
 
 ✨ Software Engineer passionate about Backend Engineering ✨ 
 
-- 💬 Contact By mail via sherifnabil441@gmail.com
+- 💬 e-mail sherifnabil441@gmail.com
 
-- 📫 Connect with me: [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sheriffnabil/)
+- 📫 Linkedin: [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sheriffnabil/)
 
 ### ⚡ Toolbox:
 
