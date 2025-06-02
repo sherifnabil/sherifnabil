@@ -2,13 +2,9 @@
 
 ### Software Engineer Passionate about Backend Engineering
 
-I'm a passionate software engineer love building Efficient web applications, solving complex problems, creating efficient and maintainable code.
-<br>
-
 ###### 💬 e-mail sherifnabil441@gmail.com
 ###### 📫 Linkedin: [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sheriffnabil/)
 
-<br/>
 
 ## 🛠️ Technologies & Tools
 
@@ -28,7 +24,6 @@ I'm a passionate software engineer love building Efficient web applications, sol
 
 <br />
 <br />
-<br/>
 <br/>
 
 ## GitHub Stats
